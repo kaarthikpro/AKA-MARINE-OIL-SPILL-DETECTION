@@ -1,0 +1,16 @@
+torch>=1.12
+torchvision
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+scikit-image
+albumentations
+segmentation_models_pytorch
+tqdm
+flask
+joblib
+opencv-contrib-python
+imutils
